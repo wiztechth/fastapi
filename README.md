@@ -1,4 +1,5 @@
 # fastapi
+Code used in my Youtube video: https://youtu.be/lh8lRqATLcU
 
 Install dependencies
 ```Shell
